@@ -15,6 +15,7 @@
 		1F6B277C24F8493B000BEC15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F6B277A24F8493B000BEC15 /* LaunchScreen.storyboard */; };
 		1F6B278724F8493C000BEC15 /* SwiftUI_XOTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6B278624F8493C000BEC15 /* SwiftUI_XOTests.swift */; };
 		1F6B279224F8493C000BEC15 /* SwiftUI_XOUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6B279124F8493C000BEC15 /* SwiftUI_XOUITests.swift */; };
+		1FF1629E24F9785D0065E7C6 /* backgroundSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1FF1629D24F9785D0065E7C6 /* backgroundSound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1F6B278D24F8493C000BEC15 /* SwiftUI-XOUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-XOUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F6B279124F8493C000BEC15 /* SwiftUI_XOUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_XOUITests.swift; sourceTree = "<group>"; };
 		1F6B279324F8493C000BEC15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1FF1629D24F9785D0065E7C6 /* backgroundSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = backgroundSound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		1F6B276324F84934000BEC15 = {
 			isa = PBXGroup;
 			children = (
+				1FF1629D24F9785D0065E7C6 /* backgroundSound.mp3 */,
 				1F6B276E24F84935000BEC15 /* SwiftUI-XO */,
 				1F6B278524F8493C000BEC15 /* SwiftUI-XOTests */,
 				1F6B279024F8493C000BEC15 /* SwiftUI-XOUITests */,
@@ -242,6 +245,7 @@
 			files = (
 				1F6B277C24F8493B000BEC15 /* LaunchScreen.storyboard in Resources */,
 				1F6B277924F8493B000BEC15 /* Preview Assets.xcassets in Resources */,
+				1FF1629E24F9785D0065E7C6 /* backgroundSound.mp3 in Resources */,
 				1F6B277624F8493B000BEC15 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
